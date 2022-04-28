@@ -1,0 +1,80 @@
+{
+  "buttons": [
+    {
+      "content": "soups & mac",
+      "pos": [200, 0, 120, 130],
+      "link_to": "w0211"
+    },
+    {
+      "content": "pizza",
+      "pos": [343, 0, 120, 130],
+      "link_to": "w0221"
+    },
+    {
+      "content": "bakery",
+      "pos": [473, 0, 120, 130],
+      "link_to": "w0231"
+    },
+    {
+      "content": "beverages",
+      "pos": [595, 0, 120, 130],
+      "link_to": "w0241"
+    },
+    {
+      "content": "value duets",
+      "pos": [720, 0, 120, 130],
+      "link_to": "w0251"
+    },
+    {
+      "content": "new & seasonal",
+      "pos": [835, 0, 120, 130],
+      "link_to": "w0261"
+    },
+    {
+      "content": "warm bowls",
+      "pos": [978, 0, 120, 130],
+      "link_to": "w0271"
+    },
+    {
+      "content": "Bagels",
+      "pos": [291, 147, 292, 52],
+      "link_to": "w0231"
+    },
+    {
+      "content": "Cookies & Brownies",
+      "pos": [612, 145, 292, 52],
+      "link_to": "w0232"
+    },
+    {
+      "content": "Cinnamon Crunch Bagel",
+      "pos": [65, 254, 336, 404],
+      "link_to": ""
+    },
+    {
+      "content": "Blueberry Bagel",
+      "pos": [470, 254, 336, 404],
+      "link_to": ""
+    },
+    {
+      "content": "Plain Bagel",
+      "pos": [874, 254, 336, 404],
+      "link_to": ""
+    },
+    {
+      "content": "Quit",
+      "pos": [1192, 8, 84, 45],
+      "link_to": "w0111"
+    },
+    {
+      "content": "Checkout",
+      "pos": [876, 634, 353, 65],
+      "link_to": "w0311"
+    }
+  ],
+  "labels": [
+    {
+      "content": "Bakery",
+      "pos": [45, 140, 252, 57]
+    }
+  ]
+}

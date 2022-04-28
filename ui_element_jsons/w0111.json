@@ -1,0 +1,27 @@
+{
+  "buttons": [
+    {
+      "content": "tap to order",
+      "pos": [50, 130, 660, 100],
+      "link_to": "w0211"
+    }
+  ],
+  "labels": [
+    {
+      "content": "WELCOME TO PANAREA",
+      "pos": [59, 44, 244, 31]
+    },
+    {
+      "content": "Your safety is important to us",
+      "pos": [491, 398, 305, 27]
+    },
+    {
+      "content": "This Kiosk uses an antimicrobial cover and is cleaned frequently",
+      "pos": [322, 425, 634, 33]
+    },
+    {
+      "content": "UNLIMITED FREE COFFEE -> SUBSCRIBE & SAVE",
+      "pos": [421, 583, 819, 41]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "buttons": [
+    {
+      "content": "Pay",
+      "pos": [876, 634, 353, 65],
+      "link_to": "w0411"
+    }],
+  "labels": [
+    {
+      "content": "Your shopping cart",
+      "pos": [48, 42, 330, 49]
+    }],
+  "cart": [
+    {
+      "content": "Your shopping cart",
+      "pos": [51, 121, 708, 572]
+    }
+  ]
+}
